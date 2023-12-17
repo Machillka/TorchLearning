@@ -1,0 +1,8 @@
+torch
+torchvision
+torchtext
+torchaudio
+matplotlib
+pandas
+gymnasium
+torchsummary
