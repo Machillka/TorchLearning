@@ -1,2 +1,2 @@
 # Purpose
-Learning the api of pytorch
+Learn about the pytorch, and make some simple projects
